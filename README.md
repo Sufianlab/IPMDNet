@@ -106,11 +106,11 @@ Researchers can adapt the notebook to use their preferred retinal vessel dataset
 Please cite this work when using the method or reproducing the experiments. If you are preparing a manuscript, use the paper title and abstract details above and include the official paper metadata once available.
 
 ```bibtex
-@article{IPMDNet2025,
+@article{IPMDNet2026,
   title={IPMDNet: Interpretably Pruned Magnification-Demagnification Network for Multimodal Retinal Image Segmentation},
   author={Anonymous/To be completed},
   journal={Preprint / Journal Details TBD},
-  year={2025}
+  year={2026}
 }
 ```
 
